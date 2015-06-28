@@ -3,7 +3,7 @@ package user;
 public class ShowUser {
 
 	public String showUser() {
-		return "shanika 5";
+		return "shanika 6 Supra";
 	}
 
 }
