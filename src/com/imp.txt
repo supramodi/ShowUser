@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 my name is a ukkuwa.
-=======
-my name a shanika6
->>>>>>> origin/master
+
